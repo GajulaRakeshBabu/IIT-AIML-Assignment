@@ -1,5 +1,5 @@
 Player_name=input("Enter Player Name:")
-Games_Played=int(input("Enter Number Of Gamess Played:"))
+Games_Played=int(input("Enter Number Of Games Played:"))
 Total_Score=int(input("Enter Total Score achieved:"))
 Average_Score=Total_Score/Games_Played
 
